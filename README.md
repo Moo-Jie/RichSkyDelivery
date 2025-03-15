@@ -10,5 +10,5 @@
         
 # 注：          
 主要对管理端的实现，微信小程序端非手敲实现，与源码大概一致。         
-仅个人学习用，来源：[itHeiMa]([https://gitee.com/ys-gitee/dkd-parent.git ](https://www.bilibili.com/video/BV1TP411v7v6/?spm_id_from=333.934.top_right_bar_window_custom_collection.content.click&vd_source=2bf5bf13a4c816ed3a8a9ad4a1148e0f))。             
+仅个人学习用，来源：[itHeiMa](https://www.bilibili.com/video/BV1TP411v7v6/?spm_id_from=333.934.top_right_bar_window_custom_collection.content.click&vd_source=2bf5bf13a4c816ed3a8a9ad4a1148e0f)               
 测试数据待上传。     
